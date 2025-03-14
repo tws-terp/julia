@@ -1,0 +1,10 @@
+name = "demo"
+uuid = "553af11d-12c6-4c59-bec9-6fc832e35770"
+authors = ["wsavage "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+
+[compat]
+CSV = "0.10.15"
