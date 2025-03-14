@@ -61,4 +61,21 @@ Hello Joe. Welcome to Julia!
 julia> 
 ```
 
+# Activating a project environment from VS Code
 
+Install the Julia extension
+
+Open the project folder (e.g. demo)
+
+Open a terminal window to run the REPL
+
+Select the code you want to run and then execute (CTL/CMD-SHIFT-P) the following:
+
+"Julia:Execute active file via REPL"
+
+```
+Main.demo
+julia> greet("Joe") 
+Hello Joe. Welcome to Julia!
+julia>
+```
