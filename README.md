@@ -1,8 +1,8 @@
 # Julia commands
 
-] i		Enter package mode
-; 		Enter shell mode
-names(Main)	List all the modules in Main
+]		Enter package mode<br>
+; 		Enter shell mode<br>
+names(Main)	List all the modules in Main<br>
 
 # Getting Started
 
